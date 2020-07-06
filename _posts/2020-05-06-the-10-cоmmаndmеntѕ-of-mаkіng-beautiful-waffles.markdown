@@ -2,7 +2,7 @@
 layout: post
 title:  "The 10 Cоmmаndmеntѕ Of Mаkіng Beautiful Waffles"
 date:   2020-05-06 12:00:00 -0600
-categories: recipes
+category: recipes
 image: /images/the-10-cоmmаndmеntѕ-of-mаkіng-beautiful-waffles.jpg
 ---
 

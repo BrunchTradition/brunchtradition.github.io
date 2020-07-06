@@ -2,7 +2,7 @@
 layout: post
 title:  "Steak and Eggs"
 date:   2020-05-14 12:00:00 -0600
-categories: recipes
+category: recipes
 image: /images/steak-and-eggs.jpg
 ---
 

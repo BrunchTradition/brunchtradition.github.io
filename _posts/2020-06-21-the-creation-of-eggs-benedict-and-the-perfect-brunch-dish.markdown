@@ -2,7 +2,7 @@
 layout: post
 title:  "The Creation of Eggs Benedict and the Perfect Brunch Dish"
 date:   2020-06-20 20:20:13 -0600
-categories: recipes
+category: recipes
 image: /images/the-creation-of-eggs-benedict-and-the-perfect-brunch-dish.png
 ---
 

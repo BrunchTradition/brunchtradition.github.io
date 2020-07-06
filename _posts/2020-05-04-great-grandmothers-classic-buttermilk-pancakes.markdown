@@ -2,7 +2,7 @@
 layout: post
 title:  "Great Grandmother’s Classic Buttermilk Pancakes"
 date:   2020-05-04 12:00:00 -0600
-categories: recipes
+category: recipes
 image: /images/great-grandmothers-classic-buttermilk-pancakes.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Uncle Pete’s Guacamole"
 date:   2020-05-05 12:00:00 -0600
-categories: recipes
+category: recipes
 image: /images/uncle-petes-guacamole.png
 ---
 

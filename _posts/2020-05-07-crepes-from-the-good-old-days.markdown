@@ -2,7 +2,7 @@
 layout: post
 title:  "Crepes From The Good Old Days"
 date:   2020-05-07 12:00:00 -0600
-categories: recipes
+category: recipes
 image: /images/crepes-from-the-good-old-days.jpg
 ---
 
